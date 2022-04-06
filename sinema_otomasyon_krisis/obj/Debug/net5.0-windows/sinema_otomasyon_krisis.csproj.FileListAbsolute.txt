@@ -1,0 +1,58 @@
+D:\Yeni klasör\visual studio\c#form\VizeProje\sinema_otomasyon_krisis\sinema_otomasyon_krisis\bin\Debug\net5.0-windows\sinema_otomasyon_krisis.exe
+D:\Yeni klasör\visual studio\c#form\VizeProje\sinema_otomasyon_krisis\sinema_otomasyon_krisis\bin\Debug\net5.0-windows\sinema_otomasyon_krisis.deps.json
+D:\Yeni klasör\visual studio\c#form\VizeProje\sinema_otomasyon_krisis\sinema_otomasyon_krisis\bin\Debug\net5.0-windows\sinema_otomasyon_krisis.runtimeconfig.json
+D:\Yeni klasör\visual studio\c#form\VizeProje\sinema_otomasyon_krisis\sinema_otomasyon_krisis\bin\Debug\net5.0-windows\sinema_otomasyon_krisis.runtimeconfig.dev.json
+D:\Yeni klasör\visual studio\c#form\VizeProje\sinema_otomasyon_krisis\sinema_otomasyon_krisis\bin\Debug\net5.0-windows\sinema_otomasyon_krisis.dll
+D:\Yeni klasör\visual studio\c#form\VizeProje\sinema_otomasyon_krisis\sinema_otomasyon_krisis\bin\Debug\net5.0-windows\ref\sinema_otomasyon_krisis.dll
+D:\Yeni klasör\visual studio\c#form\VizeProje\sinema_otomasyon_krisis\sinema_otomasyon_krisis\bin\Debug\net5.0-windows\sinema_otomasyon_krisis.pdb
+D:\Yeni klasör\visual studio\c#form\VizeProje\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.csproj.AssemblyReference.cache
+D:\Yeni klasör\visual studio\c#form\VizeProje\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.Properties.Resources.resources
+D:\Yeni klasör\visual studio\c#form\VizeProje\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.csproj.GenerateResource.cache
+D:\Yeni klasör\visual studio\c#form\VizeProje\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yeni klasör\visual studio\c#form\VizeProje\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.AssemblyInfoInputs.cache
+D:\Yeni klasör\visual studio\c#form\VizeProje\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.AssemblyInfo.cs
+D:\Yeni klasör\visual studio\c#form\VizeProje\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.csproj.CoreCompileInputs.cache
+D:\Yeni klasör\visual studio\c#form\VizeProje\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.dll
+D:\Yeni klasör\visual studio\c#form\VizeProje\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\ref\sinema_otomasyon_krisis.dll
+D:\Yeni klasör\visual studio\c#form\VizeProje\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.pdb
+D:\Yeni klasör\visual studio\c#form\VizeProje\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.genruntimeconfig.cache
+D:\Yeni klasör\visual studio\c#form\VizeProje\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.AnaSayfa.resources
+D:\Yeni klasör\visual studio\c#form\VizeProje\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.Film_Ekle.resources
+D:\Yeni klasör\visual studio\c#form\VizeProje\sinema_otomasyon_krisis\sinema_otomasyon_krisis\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Yeni klasör\visual studio\c#form\VizeProje\sinema_otomasyon_krisis\sinema_otomasyon_krisis\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Yeni klasör\visual studio\c#form\VizeProje\sinema_otomasyon_krisis\sinema_otomasyon_krisis\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Yeni klasör\visual studio\c#form\VizeProje\sinema_otomasyon_krisis\sinema_otomasyon_krisis\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Yeni klasör\visual studio\c#form\VizeProje\sinema_otomasyon_krisis\sinema_otomasyon_krisis\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Yeni klasör\visual studio\c#form\VizeProje\sinema_otomasyon_krisis\sinema_otomasyon_krisis\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Yeni klasör\visual studio\c#form\VizeProje\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.Salon_Ekle.resources
+D:\Yeni klasör\visual studio\c#form\VizeProje\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.csproj.CopyComplete
+D:\Yeni klasör\visual studio\c#form\VizeProje\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.Seans_Ekle.resources
+C:\Users\katii\Desktop\sinema_otomasyon_krisis\sinema_otomasyon_krisis\bin\Debug\net5.0-windows\sinema_otomasyon_krisis.exe
+C:\Users\katii\Desktop\sinema_otomasyon_krisis\sinema_otomasyon_krisis\bin\Debug\net5.0-windows\sinema_otomasyon_krisis.deps.json
+C:\Users\katii\Desktop\sinema_otomasyon_krisis\sinema_otomasyon_krisis\bin\Debug\net5.0-windows\sinema_otomasyon_krisis.runtimeconfig.json
+C:\Users\katii\Desktop\sinema_otomasyon_krisis\sinema_otomasyon_krisis\bin\Debug\net5.0-windows\sinema_otomasyon_krisis.runtimeconfig.dev.json
+C:\Users\katii\Desktop\sinema_otomasyon_krisis\sinema_otomasyon_krisis\bin\Debug\net5.0-windows\sinema_otomasyon_krisis.dll
+C:\Users\katii\Desktop\sinema_otomasyon_krisis\sinema_otomasyon_krisis\bin\Debug\net5.0-windows\sinema_otomasyon_krisis.pdb
+C:\Users\katii\Desktop\sinema_otomasyon_krisis\sinema_otomasyon_krisis\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\katii\Desktop\sinema_otomasyon_krisis\sinema_otomasyon_krisis\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\katii\Desktop\sinema_otomasyon_krisis\sinema_otomasyon_krisis\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\katii\Desktop\sinema_otomasyon_krisis\sinema_otomasyon_krisis\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\katii\Desktop\sinema_otomasyon_krisis\sinema_otomasyon_krisis\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\katii\Desktop\sinema_otomasyon_krisis\sinema_otomasyon_krisis\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\katii\Desktop\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.csproj.AssemblyReference.cache
+C:\Users\katii\Desktop\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.AnaSayfa.resources
+C:\Users\katii\Desktop\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.Film_Ekle.resources
+C:\Users\katii\Desktop\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.Properties.Resources.resources
+C:\Users\katii\Desktop\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.Salon_Ekle.resources
+C:\Users\katii\Desktop\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.Seans_Ekle.resources
+C:\Users\katii\Desktop\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.csproj.GenerateResource.cache
+C:\Users\katii\Desktop\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katii\Desktop\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.AssemblyInfoInputs.cache
+C:\Users\katii\Desktop\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.AssemblyInfo.cs
+C:\Users\katii\Desktop\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.csproj.CoreCompileInputs.cache
+C:\Users\katii\Desktop\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.csproj.CopyComplete
+C:\Users\katii\Desktop\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.dll
+C:\Users\katii\Desktop\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\ref\sinema_otomasyon_krisis.dll
+C:\Users\katii\Desktop\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.pdb
+C:\Users\katii\Desktop\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\sinema_otomasyon_krisis.genruntimeconfig.cache
+C:\Users\katii\Desktop\sinema_otomasyon_krisis\sinema_otomasyon_krisis\obj\Debug\net5.0-windows\refint\sinema_otomasyon_krisis.dll
